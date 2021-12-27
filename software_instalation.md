@@ -1,6 +1,6 @@
-# Visual Studio Code
+# PyCharm 
 
-To install <a href="/">Visual Studio Code</a> go to the website and download the latest version of the software. 
+To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. 
 
 
 # Python Instalation
