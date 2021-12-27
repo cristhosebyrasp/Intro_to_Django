@@ -12,11 +12,20 @@ For our first Django app, we will create a project with only one app. However, k
 - python manage.py migrate
 - python manage.py makemigrations
 
+You always can come back here, if you forget them.
+
+
 ## Django Migrations
 
-Every time we change something on our Django's app, weneed to migrate. Migrations are Django’s way of propagating changes you make to our models, for example, to add a field, deleting a model, and soon. It is the only way the changes will be applied to our database schema. 
+Every time we change something on our Django's app, weneed to migrate. Migrations are Django’s way of propagating changes you make to our models, for example, to add a field, deleting a model, and soon. It is the only way the changes will be applied to our database schema. The command to Migrate your Django changes is: 
 
-You always can come back here, if you forget them.
+```
+python manage.py migrate
+```
+
+
+
+
 
 Django framework have a very specific folder structure. We will learn about it as we create our Django app. 
 
