@@ -31,7 +31,7 @@ To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Communi
 
 # Python Installation
 
-Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter on your computer.</a>
+Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter</a> on your computer.
 
 # Django Installation
 
