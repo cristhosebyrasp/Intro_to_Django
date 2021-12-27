@@ -23,6 +23,15 @@ Every time we change something on our Django's app, weneed to migrate. Migration
 python manage.py migrate
 ```
 
+## Django Makemigrations
+
+Afeter you run the migrations, you need to make the migrations accessible by using the command:
+
+```
+python manage.py makemigrations
+```
+
+It will make all the changes ...
 
 
 
