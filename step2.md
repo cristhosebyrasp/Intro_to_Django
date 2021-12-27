@@ -14,6 +14,14 @@ For our first Django app, we will create a project with only one app. However, k
 
 You always can come back here, if you forget them.
 
+## Django **startapp** command
+
+As mentioned previewsly, a Django project can have more than one app. To create a app you need to create a folder with a particular structure by run the command bellow:
+
+```
+python manage.py startapp appname
+```
+
 ## Django **runserver** command
 
 Everytime you want to run your Django application on your localhost you will need to run the command:
