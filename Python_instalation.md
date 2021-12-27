@@ -1,3 +1,3 @@
 # Python Instalation
 
-We will start by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python</a>.
+Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter on your computer.</a>
