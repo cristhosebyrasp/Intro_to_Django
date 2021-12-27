@@ -14,13 +14,21 @@ For our first Django app, we will create a project with only one app. However, k
 
 You always can come back here, if you forget them.
 
+## Django Runserver command
 
-## Django Migrations
+Everytime you want to run your Django application on your localhost you will need to run the command:
+
+```
+python manage.py runserver
+```
+
+
+## Django Migrations command
 
 Every time we change something on our Django's app, weneed to migrate. Migrations are Django’s way of propagating changes you make to our models, for example, to add a field, deleting a model, and soon. It is the only way the changes will be applied to our database schema. The command to Migrate your Django changes is: 
 
 ```
-python manage.py migrate
+python manage.py migrate command
 ```
 
 ## Django Makemigrations
