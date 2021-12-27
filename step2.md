@@ -11,6 +11,8 @@ For our first Django app, we will create a project with only one app. However, k
 - python manage.py runserver
 - python manage.py migrate
 - python manage.py makemigrations
+- python manage.py sqlmigrate
+- python manage.py showmigrations
 
 You always can come back here, if you forget them.
 
