@@ -1,8 +1,12 @@
 # Visual Studio Code
 
-To install href="/">Visual Studio Code go to the website and download the latest version of the software. 
+To install <a href="/">Visual Studio Code</a> go to the website and download the latest version of the software. 
 
 
 # Python Instalation
 
 Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter on your computer.</a>
+
+# Django Instalation
+
+You need to have Python installed on your computer before install Djando. 
