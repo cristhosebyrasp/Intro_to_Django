@@ -2,6 +2,8 @@
 
 Before we start, it is very useful to know that one Django project can have one or more applications (or apps). For example, if we create a Django project for a library, we can have a app called catalog, for the books; other app called HR, to manage the employees; another app called warehouse, for all the physical goods stored, such as chair, tables, and so on. 
 
+For our first Django app, we will create a project with only one app. However, keep in mind that you can 
+
 ## Some basic commands used on the terminal:
 
 - cd foldername
@@ -9,6 +11,10 @@ Before we start, it is very useful to know that one Django project can have one 
 - python manage.py runserver
 - python manage.py migrate
 - python manage.py makemigrations
+
+## Django Migrations
+
+Every time we change something on our Django's app, weneed to migrate. Migrations are Django’s way of propagating changes you make to our models, for example, to add a field, deleting a model, and soon. It is the only way the changes will be applied to our database schema. 
 
 You always can come back here, if you forget them.
 
