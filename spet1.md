@@ -2,10 +2,14 @@
 
 - Python 3
 - Django framework
-- Visual Studio Code# What is Django?
+- Visual Studio Code
+
+
+# What is Django?
 
 Django is a free open-source and high-level Python web framework that is used to develop web based apps. 
 Django is used by high-profile sites such Instagram, Mozilla, National Geographic and Pinterest.
+
 
 <!-- IMAGE
 Caption: Stages of sound processing
@@ -19,6 +23,7 @@ Placeholder: TRUE
 ![IMAGE](figures/python-django.png)
 
 <!-- END IMAGE -->
+
 # PyCharm 
 
 To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. 
