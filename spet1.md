@@ -36,3 +36,7 @@ Starting by downloading and installing the latest version of <a href="https://ww
 # Django Installation
 
 You will need to have Python installed on your computer before installing Django. There are two ways to install Django: using pip on the terminal or cloning it from GitHub. Go to the <a href="https://www.djangoproject.com/download/">Django Project</a> website to choose the approach you are more comfortable.
+
+# What next
+
+Now that all requirements are meet, let start your first Django web application. 
