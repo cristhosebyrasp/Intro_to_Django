@@ -2,7 +2,7 @@
 
 Before we start, it is very useful to know that one Django project can have one or more applications (or apps). For example, if we create a Django project for a library, we can have a app called catalog, for the books; other app called HR, to manage the employees; another app called warehouse, for all the physical goods stored, such as chair, tables, and so on. 
 
-For our first Django app, we will create a project with only one app. However, keep in mind that you can 
+For our first Django app, we will create a project with only one app. However, keep in mind that you can create as many apps as you need for your project. 
 
 ## Some basic commands used on the terminal:
 
