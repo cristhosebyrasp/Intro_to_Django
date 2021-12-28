@@ -92,23 +92,14 @@ Placeholder: TRUE
 
 
 
-# Creating your first app
+# Creating your first Project
 
 Now that we have created a Django project environment, let's create our app. As previewsly mentioned, one project can have many apps. But for the purpose of this course we will create just one app.
 
-<!-- IMAGE
-Caption: Creating our first app
-ID: createourfirstapp
-Alt text: 
-Author: 
-Attribution: 
-Placeholder: TRUE  
---> 
-
-![IMAGE](figures/createourfirstapp.png)
-
-# My first project
-
+```
+django-admin startproject locallibrary
+cd locallibrary
+```
 <!-- IMAGE
 Caption: Creating my first project
 ID: firstproject
