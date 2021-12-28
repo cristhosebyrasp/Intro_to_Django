@@ -2,7 +2,7 @@
 
 The term “front-end” refers to the user interface, while “back-end” means the server, application and database that work behind the scenes to deliver information to the user.
 
-# What is Front-End Development?
+# Front-End Development
 
 The front-end is built using a combination of technologies such as Hypertext Markup Language (HTML), JavaScript and Cascading Style Sheets (CSS).
 
@@ -26,7 +26,7 @@ This event-based language is useful for creating dynamic elements on static HTML
 
 It allows developers to access elements separate from the main HTML page, as well as respond to server-side events.
 
-# What is Back-End Development?
+# Back-End Development
 
 The back-end, also called the server side, consists of the server which provides data on request, the application which channels it, and the database which organizes the information.
 
@@ -48,7 +48,7 @@ Over the last several years Backend-as-a-Service (BaaS) providers have been matu
 
 They’re especially useful when developing mobile apps and working within a tight schedule.
 
-# What is Full-Stack Development?
+# Full-Stack Development
 
 The development of both the back- and front-end systems has become so specialized, it’s most common for a developer to specialize in only one.
 
