@@ -107,3 +107,15 @@ Placeholder: TRUE
 
 ![IMAGE](figures/createourfirstapp.png)
 
+# My first project
+
+<!-- IMAGE
+Caption: Creating my first project
+ID: firstproject
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/firstproject.png)
