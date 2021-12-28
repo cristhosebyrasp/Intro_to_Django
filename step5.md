@@ -43,14 +43,46 @@ Placeholder: TRUE
 
 # Installing Django
 
+## from pip
 
 <!-- IMAGE
 Caption: Installing Django
-ID: pythonversioncheck
+ID: InstallingDjango1
 Alt text: 
 Author: 
 Attribution: 
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/InstallingDjango.png)
+![IMAGE](figures/InstallingDjango1.png)
+
+## from git clone
+
+<!-- IMAGE
+Caption: Installing Django
+ID: InstallingDjango2
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/InstallingDjango2.png)
+
+
+
+# Creating your first app
+
+Now that we have created a Django project environment, let's create our app. As previewsly mentioned, one project can have many apps. But for the purpose of this course we will create just one app.
+
+<!-- IMAGE
+Caption: Creating our first app
+ID: createourfirstapp
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/createourfirstapp.png)
+
