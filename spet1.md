@@ -19,11 +19,11 @@ The term ```front-end``` refers to the user interface, while ```back-end``` mean
 
 The front-end is built using a combination of technologies such as Hypertext Markup Language (HTML), JavaScript, Cascading Style Sheets (CSS), JQuery, and Bootstrap. Front-end developers design and construct the user experience elements on the web pages or web apps including buttons, menus, pages, links, graphics and more.
 
-HTML is the core of a website, providing the overall design and functionality. The updated version includes more tools aimed at web application developers as well as adjustments made to improve interoperability.
++ HTML is the core of a website, providing the overall design and functionality. The updated version includes more tools aimed at web application developers as well as adjustments made to improve interoperability.
 
-CSS give developers a flexible, precise way to create attractive, interactive website designs.
++ CSS give developers a flexible, precise way to create attractive, interactive website designs.
 
-JavaScript is an event-based language is useful for creating dynamic elements on static HTML web pages. It allows developers to access elements separate from the main HTML page, as well as respond to server-side events.
++ JavaScript is an event-based language is useful for creating dynamic elements on static HTML web pages. It allows developers to access elements separate from the main HTML page, as well as respond to server-side events.
 
 # Back-end Development
 
