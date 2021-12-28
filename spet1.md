@@ -33,7 +33,7 @@ The core concern of back-end developers is creating applications that can find a
 
 # Full-Stack Development
 
-A full-stack developer is a very profitable job. The development of both the back- and front-end systems has become so specialized, it’s most common for a developer to specialize in only one. As a general rule, full-stack development by a single programmer isn’t a practical solution. However, at times a custom software development company will have developers who are proficient with both sides, known as a full stack developer.
+A full-stack developer is a very profitable job. The development of both the back- and front-end systems has become so specialized, it’s most common for a developer to specialize in only one. As a general rule, full-stack development by a single programmer isn’t a practical solution. However, at times a custom software development company will have developers who are proficient with both sides, known as a full-stack developer.
 
 They powerful team players because they have the breadth of knowledge to see the big picture, letting them suggest ways to optimize the process or remove roadblocks that might be slowing down the system.
 
