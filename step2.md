@@ -1,36 +1,46 @@
-# What does Django code look like?
+# Setting up the environment
 
-Django framework has a "Model View Template (MVT)" architecture. In a traditional data-driven website, a web application waits for HTTP requests from the web browser (or other client). When a request is received the application works out what is needed based on the URL and possibly information in **POST** data or **GET** data. Depending on what is required it may then read or write information from a database or perform other tasks required to satisfy the request. The application will then return a response to the web browser, often dynamically creating an HTML page for the browser to display by inserting the retrieved data into placeholders in an HTML template.
 
-Django web applications typically group the code that handles each of these steps into separate files:
+## Software requerement
+
+- Python 3
+- Django framework
+- PyCharm Community Edition
+
+## What is Django?
+
+Django is a free open-source and high-level Python web framework used to develop web applications. 
+Django is used by high-profile sites such as Instagram, Mozilla, National Geographic and Pinterest.
+
 
 <!-- IMAGE
-Caption: Django Structure
-ID: django_structure
+Caption: Stages of sound processing
+ID: python_django_logo
 Alt text: 
 Author: 
 Attribution: 
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/django_structure.png)
+![IMAGE](figures/python-django.png)
 
 <!-- END IMAGE -->
 
-## URLs
+Are there many different IDLE (Integrated Development and Learning Environment) available. Be free to use the IDLE of your preference. However, for the purpose of this course, we will be using PyCharm Community Edition to demonstrate how to create a Django web app.
 
-While it is possible to process requests from every single URL via a single function, it is much more maintainable to write a separate view function to handle each resource. A URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data.
+## PyCharm 
 
-## View
-
-A view is a request handler function, which receives HTTP requests and returns HTTP responses. Views access the data needed to satisfy requests via models, and delegate the formatting of the response to templates.
+PyCharm is an integrated development environment used in computer programming, specifically for the Python language. To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. JetBrains has a extensive <a href="https://www.jetbrains.com/pycharm/learn/">resources collection</a> to support in how to use PyCharm effectivelly. 
 
 
-## Models
+## Python Installation
 
-Models are Python objects that define the structure of an application's data, and provide mechanisms to manage (add, modify, delete) and query records in the database.
+Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter</a> on your computer. You always can check the Python <a href="https://www.python.org/doc/versions/">documentation contents</a> for aditional information. 
 
-## Templates
+## Django Installation
 
-A template is a text file defining the structure or layout of a file (such as an HTML page), with placeholders used to represent actual content. A view can dynamically create an HTML page using an HTML template, populating it with data from a model. A template can be used to define the structure of any type of file; it doesn't have to be HTML!
+You will need to have Python installed on your computer before installing Django. There are two ways to install Django: using pip on the terminal or cloning it from GitHub. Go to the <a href="https://www.djangoproject.com/download/">Django Project</a> website to choose the approach you are more comfortable. You always can check the Django <a href="https://docs.djangoproject.com/en/4.0/contents/">documentation contents</a> for aditional information. 
 
+## What next?
+
+Now that all requirements are meet, let start your first Django web application. 
