@@ -4,7 +4,7 @@ The term ```front-end``` refers to the user interface, while ```back-end``` mean
 
 # Front-End Development
 
-The front-end is built using a combination of technologies such as Hypertext Markup Language (HTML), JavaScript and Cascading Style Sheets (CSS).
+The front-end is built using a combination of technologies such as Hypertext Markup Language (HTML), JavaScript, Cascading Style Sheets (CSS), JQuery, and Bootstrap.
 
 Front-end developers design and construct the user experience elements on the web page or app including buttons, menus, pages, links, graphics and more.
 
