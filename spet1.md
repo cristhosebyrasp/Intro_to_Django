@@ -10,7 +10,7 @@
 ## What is Django?
 
 Django is a free open-source and high-level Python web framework used to develop web applications. 
-Django is used by high-profile sites such Instagram, Mozilla, National Geographic and Pinterest.
+Django is used by high-profile sites such as Instagram, Mozilla, National Geographic and Pinterest.
 
 
 <!-- IMAGE
