@@ -40,3 +40,17 @@ Placeholder: TRUE
 --> 
 
 ![IMAGE](figures/pythonversioncheck.png)
+
+# Installing Django
+
+
+<!-- IMAGE
+Caption: Installing Django
+ID: pythonversioncheck
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/InstallingDjango.png)
