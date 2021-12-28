@@ -35,11 +35,11 @@ PyCharm is an integrated development environment used in computer programming, s
 
 ## Python Installation
 
-Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter</a> on your computer. You always can check the <a href="https://www.python.org/doc/versions/">Python documentation contents</a> for aditional information. 
+Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter</a> on your computer. You always can check the Python <a href="https://www.python.org/doc/versions/">documentation contents</a> for aditional information. 
 
 ## Django Installation
 
-You will need to have Python installed on your computer before installing Django. There are two ways to install Django: using pip on the terminal or cloning it from GitHub. Go to the <a href="https://www.djangoproject.com/download/">Django Project</a> website to choose the approach you are more comfortable. You always can check the <a href="https://docs.djangoproject.com/en/4.0/contents/">Django documentation contents</a> for aditional information. 
+You will need to have Python installed on your computer before installing Django. There are two ways to install Django: using pip on the terminal or cloning it from GitHub. Go to the <a href="https://www.djangoproject.com/download/">Django Project</a> website to choose the approach you are more comfortable. You always can check the Django <a href="https://docs.djangoproject.com/en/4.0/contents/">documentation contents</a> for aditional information. 
 
 ## What next?
 
