@@ -9,6 +9,7 @@ This course is designed for a beginner with no programming background.
 + To use JavaScript
 + To use the Django framework
 + To use Python program language
++ To use sqlite3 database
 + To build a complete Django website app from scratch
 
 # Web development
