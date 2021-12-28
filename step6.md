@@ -1,6 +1,4 @@
-Django framework have a very specific folder structure. We will learn about it as we create our Django app. 
-
-
+# Your web app it alive
 
 <!-- IMAGE
 Caption: Screen 1
