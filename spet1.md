@@ -28,12 +28,12 @@ Placeholder: TRUE
 
 ## PyCharm 
 
-To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. 
+To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. JetBrains has a extensive <a href="https://www.jetbrains.com/pycharm/learn/">resources collection</a> to support in how to use PyCharm effectivelly. 
 
 
 ## Python Installation
 
-Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter</a> on your computer.
+Starting by downloading and installing the latest version of <a href="https://www.python.org/downloads/">Python interpreter</a> on your computer. You always can check the <a href="https://www.python.org/doc/versions/">Python documentation contents</a> for aditional information. 
 
 ## Django Installation
 
