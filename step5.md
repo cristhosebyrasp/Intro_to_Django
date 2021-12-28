@@ -9,7 +9,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/pycharm1.png)
+![IMAGE](figures/PyCharm1.png)
 
 <!-- END IMAGE -->
 
@@ -36,7 +36,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/pycharm2.png)
+![IMAGE](figures/PyCharm2.png)
 
 
 Create the new project using the django-admin startproject command as shown, and then change into the project folder:
