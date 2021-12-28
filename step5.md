@@ -207,3 +207,4 @@ Placeholder: TRUE
 
 <!-- END IMAGE -->
 
+Now that your server is up and running, next lesson we will start to customise it.
