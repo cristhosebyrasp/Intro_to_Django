@@ -124,3 +124,17 @@ Placeholder: TRUE
 --> 
 
 ![IMAGE](figures/cdtofolder.png)
+
+# my first app
+
+
+<!-- IMAGE
+Caption: Creating my first app
+ID: myfirstapp
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/myfirstapp.png)
