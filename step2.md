@@ -1,3 +1,22 @@
+# What does Django code look like?
+
+In a traditional data-driven website, a web application waits for HTTP requests from the web browser (or other client). When a request is received the application works out what is needed based on the URL and possibly information in **POST** data or **GET** data. Depending on what is required it may then read or write information from a database or perform other tasks required to satisfy the request. The application will then return a response to the web browser, often dynamically creating an HTML page for the browser to display by inserting the retrieved data into placeholders in an HTML template.
+
+Django web applications typically group the code that handles each of these steps into separate files:
+
+<!-- IMAGE
+Caption: Django Structure
+ID: django_structure
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/django_structure.png)
+
+<!-- END IMAGE -->
+
 # Starting your Django app
 
 Before we start, it is very useful to know that one Django project can have one or more applications (or apps). For example, if we create a Django project for a library, we can have a app called catalog, for the books; other app called HR, to manage the employees; another app called warehouse, for all the physical goods stored, such as chair, tables, and so on. 
