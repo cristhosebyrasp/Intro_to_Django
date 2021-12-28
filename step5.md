@@ -174,3 +174,20 @@ Placeholder: TRUE
 --> 
 
 ![IMAGE](figures/makemigrations.png)
+
+# Starting the web application
+
+```
+python manage.py runserver
+```
+
+<!-- IMAGE
+Caption: Starting the web application
+ID: runserver
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/runserver.png)
