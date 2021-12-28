@@ -2,12 +2,12 @@
 
 This course is designed for a beginner with no programming background.
 
-# Course objectives:
+# Course objectives
 
-+ Use HTML, CSS, and JavaScript
-+ Use Django framework
-+ Use Python program language
-+ Build a complete Django website app from scratch
++ To use HTML, CSS, and JavaScript
++ To use Django framework
++ To use Python program language
++ To build a complete Django website app from scratch
 
 # Web development
 
