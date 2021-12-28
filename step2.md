@@ -6,7 +6,6 @@ For our first Django app, we will create a project with only one app. However, k
 
 ## Some basic commands used on the terminal:
 
-- cd foldername
 - python manage.py startapp appname
 - python manage.py runserver
 - python manage.py migrate
@@ -21,7 +20,7 @@ You always can come back here, if you forget them.
 As mentioned previewsly, a Django project can have more than one app. To create a app you need to create a folder with a particular structure by run the command bellow:
 
 ```
-python manage.py startapp <appnamehere>
+python manage.py startapp <yourappnamehere>
 ```
 
 ## Django **runserver** command
