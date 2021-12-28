@@ -5,7 +5,7 @@
 
 - Python 3
 - Django framework
-- Visual Studio Code
+- PyCharm Community Edition
 
 ## What is Django?
 
