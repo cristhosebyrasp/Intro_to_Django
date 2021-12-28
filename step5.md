@@ -138,3 +138,39 @@ Placeholder: TRUE
 --> 
 
 ![IMAGE](figures/myfirstapp.png)
+
+
+# migrate
+
+```
+python manage.py migrate
+```
+
+<!-- IMAGE
+Caption: Migrate
+ID: migrate
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/migrate.png)
+
+
+# makemigration
+
+```
+python manage.py makemigration
+```
+
+<!-- IMAGE
+Caption: Making migration
+ID: makemigrations
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/makemigrations.png)
