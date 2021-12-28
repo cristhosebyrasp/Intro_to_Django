@@ -28,7 +28,7 @@ Placeholder: TRUE
 
 ## PyCharm 
 
-To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. JetBrains has a extensive <a href="https://www.jetbrains.com/pycharm/learn/">resources collection</a> to support in how to use PyCharm effectivelly. 
+PyCharm is an integrated development environment used in computer programming, specifically for the Python language. To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. JetBrains has a extensive <a href="https://www.jetbrains.com/pycharm/learn/">resources collection</a> to support in how to use PyCharm effectivelly. 
 
 
 ## Python Installation
