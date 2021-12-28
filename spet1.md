@@ -7,7 +7,7 @@ This course is designed for a beginner with no programming background.
 + To use Hypertext Markup Language (HTML)
 + To use Cascading Style Sheets (CSS) 
 + To use JavaScript
-+ To use Django framework
++ To use the Django framework
 + To use Python program language
 + To build a complete Django website app from scratch
 
