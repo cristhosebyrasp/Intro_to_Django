@@ -1,6 +1,6 @@
 # Web development
 
-The term “front-end” refers to the user interface, while “back-end” means the server, application and database that work behind the scenes to deliver information to the user. To becoming a "full-stack" developer can be challenging and requires constant learning. You will need to know Python and backend frameworks like Django and also front-end framework like HTML.
+The term “front-end” refers to the user interface, while “back-end” means the server, application and database that work behind the scenes to deliver information to the user. To becoming a "full-stack" developer can be challenging and requires constant learning. You will need to know a backend framework, such as Django and a front-end framework, such as HTML.
 
 # Front-End Development
 
