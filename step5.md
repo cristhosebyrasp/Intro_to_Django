@@ -110,3 +110,17 @@ Placeholder: TRUE
 --> 
 
 ![IMAGE](figures/firstproject.png)
+
+# cd to folder
+
+
+<!-- IMAGE
+Caption: How to cd to folder
+ID: cdtofolder
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](figures/cdtofolder.png)
