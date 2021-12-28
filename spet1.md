@@ -28,9 +28,8 @@ JavaScript is an event-based language is useful for creating dynamic elements on
 
 The back-end, also called the server side, consists of the server which provides data on request, the application which channels it, and the database which organizes the information. For example, when a customer browses shoes on a website, they are interacting with the front end. After they select the item they want, put it in the shopping cart, and authorize the purchase, the information is kept inside the database which resides on the server. A few days later when the client checks on the status of their delivery, the server pulls the relevant information, updates it with tracking data, and presents it through the front-end.
 
-## Back-end Tools
 
-The core concern of back-end developers is creating applications that can find and deliver data to the front end. There’s also a number of other popular databases including MySQL, NoSQL and PostgreSQL. There are a wide variety of frameworks and languages used to code the application, such as Ruby on Rails, Java, C++/C/C#, Python and PHP. Over the last several years Backend-as-a-Service (BaaS) providers have been maturing into a viable alternative. They’re especially useful when developing mobile apps and working within a tight schedule.
+The core concern of back-end developers is creating applications that can find and deliver data to the front end. There’s also a number of other popular databases including MySQL, NoSQL and PostgreSQL. There are a wide variety of frameworks and languages used to code the application, such as Java, PHP, and Python.
 
 # Full-Stack Development
 
