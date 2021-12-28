@@ -26,6 +26,8 @@ Placeholder: TRUE
 
 <!-- END IMAGE -->
 
+Are there many different IDLE (Integrated Development and Learning Environment) available. Be free to use the IDLE of your preference. However, for the purpose of this course, we will be using PyCharm Community Edition to demonstrate how to create a Django web app.
+
 ## PyCharm 
 
 PyCharm is an integrated development environment used in computer programming, specifically for the Python language. To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. JetBrains has a extensive <a href="https://www.jetbrains.com/pycharm/learn/">resources collection</a> to support in how to use PyCharm effectivelly. 
