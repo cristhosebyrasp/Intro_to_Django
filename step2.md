@@ -32,6 +32,9 @@ Are there many different IDLE (Integrated Development and Learning Environment) 
 
 PyCharm is an integrated development environment used in computer programming, specifically for the Python language. To install <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community Edition</a> go to the website and download the latest version of the software. JetBrains has a extensive <a href="https://www.jetbrains.com/pycharm/learn/">resources collection</a> to support in how to use PyCharm effectivelly. 
 
+## Sqlite3 database
+
+SQLite is a self-contained, file-based SQL database. SQLite comes bundled with Python and can be used in any of your Python applications without having to install any additional software
 
 ## Python Installation
 
