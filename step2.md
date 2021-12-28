@@ -17,75 +17,20 @@ Placeholder: TRUE
 
 <!-- END IMAGE -->
 
-# Starting your Django app
+## URLs
 
-Before we start, it is very useful to know that one Django project can have one or more applications (or apps). For example, if we create a Django project for a library, we can have a app called catalog, for the books; other app called HR, to manage the employees; another app called warehouse, for all the physical goods stored, such as chair, tables, and so on. 
+While it is possible to process requests from every single URL via a single function, it is much more maintainable to write a separate view function to handle each resource. A URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data.
 
-For our first Django app, we will create a project with only one app. However, keep in mind that you can create as many apps as you need for your project. 
+## View
 
-## Some basic commands used on the terminal:
-
-- python manage.py startapp appname
-- python manage.py runserver
-- python manage.py migrate
-- python manage.py makemigrations
-- python manage.py sqlmigrate
-- python manage.py showmigrations
-
-You always can come back here, if you forget them.
-
-## Django **startapp** command
-
-As mentioned previewsly, a Django project can have more than one app. To create a app you need to create a folder with a particular structure by run the command bellow:
-
-```
-python manage.py startapp <yourappnamehere>
-```
-
-## Django **runserver** command
-
-Everytime you want to run your Django application on your localhost you will need to run the command:
-
-```
-python manage.py runserver
-```
+A view is a request handler function, which receives HTTP requests and returns HTTP responses. Views access the data needed to satisfy requests via models, and delegate the formatting of the response to templates.
 
 
-## Django **migrations** command
+## Models
 
-Every time we change something on our Django's app, weneed to migrate. Migrations are Django’s way of propagating changes you make to our models, for example, to add a field, deleting a model, and soon. It is the only way the changes will be applied to our database schema. The command to Migrate your Django changes is: 
+Models are Python objects that define the structure of an application's data, and provide mechanisms to manage (add, modify, delete) and query records in the database.
 
-```
-python manage.py migrate command
-```
+## Templates
 
-## Django **makemigrations** command
-
-Afeter you run the migrations, you need to make the migrations accessible by using the command:
-
-```
-python manage.py makemigrations
-```
-
-It will make all the changes ...
-
-
-
-
-Django framework have a very specific folder structure. We will learn about it as we create our Django app. 
-
-
-
-<!-- IMAGE
-Caption: Screen 1
-ID: screen_1
-Alt text: 
-Author: 
-Attribution: 
-Placeholder: TRUE  
---> 
-
-![IMAGE](figures/screen1.png)
-
-<!-- END IMAGE -->
+A template is a text file defining the structure or layout of a file (such as an HTML page), with placeholders used to represent actual content. A view can dynamically create an HTML page using an HTML template, populating it with data from a model. A template can be used to define the structure of any type of file; it doesn't have to be HTML!
 
