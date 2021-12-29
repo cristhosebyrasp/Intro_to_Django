@@ -191,6 +191,21 @@ Placeholder: TRUE
 
 # Your web app it alive
 
+Pay attention that the terminal tell information about the system.
+
+<!-- IMAGE
+Caption: Message displayed on the terminal
+ID: msgfromterminal
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](/figures/msgfromterminal.png)
+
+Now click on the link that will take you to your Django web app:
+
 <!-- IMAGE
 Caption: Screen 1
 ID: screen_1
@@ -209,3 +224,4 @@ Now that your server is up and running, next lesson we will start to customise i
 ```
 python manage.py runserver
 ```
+To quit the server do a ```CONTROL-C```.
