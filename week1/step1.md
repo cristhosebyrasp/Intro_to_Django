@@ -22,7 +22,7 @@ I will use PyCharm to create this project, but feel free to use other IDEs, such
 
 # Web development
 
-The term ```front-end``` refers to the user interface, while ```back-end``` means the server, application and database that work behind the scenes to deliver information to the user. To becoming a ```full-stack``` developer can be challenging and requires constant learning. You will need to know a backend framework, such as Django and a front-end framework, such as HTML.
+Before we dive in, I would like to show you the big picture when learn Django can take to. Let's introduce some terms that you may came across, if you inspire to become a web developer. The term ```front-end``` refers to the user interface, while ```back-end``` means the server, application and database that work behind the scenes to deliver information to the user. To becoming a ```full-stack``` developer can be challenging and requires constant learning. You will need to know a backend framework, such as Django and a front-end framework, such as HTML.
 
 # Front-end Development
 
