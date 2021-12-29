@@ -8,17 +8,22 @@ This course is designed for a beginner with basic programming background. We wil
 + Basic programming concepts
 + Using a text editor or IDE for work with code
 
-I will use PyCharm to create this project, but feel free to use other IDEs, such Visual Studio Code, or online options, such as Replit.
 
 # Course objectives
 
-+ To use Hypertext Markup Language (HTML)
-+ To use Cascading Style Sheets (CSS) 
-+ To use JavaScript
-+ To use the Django framework
-+ To use Python program language
-+ To use sqlite3 database 
-+ To build a complete Django website app from scratch
+
+I will use PyCharm to create to build a complete Django website app from scratch, but feel free to use other IDEs, such Visual Studio Code, or online options, such as Replit. 
+
+During this course we will be using:
+
+
++ Hypertext Markup Language (HTML)
++ Cascading Style Sheets (CSS) 
++ JavaScript
++ Django framework
++ Python program language
++ Sqlite3 database 
+
 
 # Web development
 
