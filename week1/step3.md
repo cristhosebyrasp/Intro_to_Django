@@ -18,7 +18,7 @@ Placeholder: TRUE
 <!-- END IMAGE -->
 
 A Django project is ...
-A Django app is a component of the overall Django project. 
+A Django app is a component of the overall Django project. Each app serve to a specific purpose. 
 
 ## URLs
 
