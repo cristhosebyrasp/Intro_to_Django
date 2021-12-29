@@ -35,7 +35,7 @@ A Django app is a component of the overall Django project. Each app serve to a s
 
 ## URLs patterns
 
-The ```urlpatterns``` list routes URLs to views. While it is possible to process requests from every single URL via a single function, it is much more maintainable to write a separate view function to handle each resource. A URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data.
+The ```urlpatterns``` list routes URLs to views. While it is possible to process requests from every single URL via a single function, it is much more maintainable to write a separate view function to handle each resource. A URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data. You can check the <a href="https://docs.djangoproject.com/en/4.0/topics/http/urls/">developer documentation</a> to have a deeper understand about the Django urlspatterns. 
 
 ## View
 
