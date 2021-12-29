@@ -2,6 +2,14 @@
 
 This course is designed for a beginner with basic programming background. We will be basic HTML tags, CSS and JavaScrippt code; and basic Python coding, such as loops, variable, classes, functions, dictionary and lists. This courses will not teach you those basic programming concepts and operations. Insteady, we will provided you with the codes you need to create your first Django web application. You will be able to improve your projects as you gain knowledge and practice your skills.
 
+# Course requirements
+
++ Computer connected to the internet
++ Basic programming concepts
++ Using a text editor or IDE for work with code
+
+I will use PyCharm to create this project, but feel free to use other IDEs, such Visual Studio Code, or online options, such as Replit.
+
 # Course objectives
 
 + To use Hypertext Markup Language (HTML)
