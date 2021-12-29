@@ -9,7 +9,7 @@ This course is designed for a beginner with basic programming background. We wil
 + To use JavaScript
 + To use the Django framework
 + To use Python program language
-+ To use sqlite3 database
++ To use sqlite3 database 
 + To build a complete Django website app from scratch
 
 # Web development
@@ -32,4 +32,4 @@ The back-end, also called the server side, consists of the server which provides
 
 # Full-stack Development
 
-A full-stack developer is a very profitable job. The development of both the back- and front-end systems has become so specialized, it’s most common for a developer to specialize in only one. As a general rule, full-stack development by a single programmer isn’t a practical solution. However, at times a custom software development company will have developers who are proficient with both sides, known as a full-stack developer. The best way to create the perfect front-end and back-end combination is to outline the specific project at hands requirements and assemble the stack that fits those.
+A full-stack developer is a very profitable job. The development of both the back- and front-end systems has become so specialized, it’s most common for a developer to specialize in only one. As a general rule, full-stack development by a single programmer isn’t a practical solution langer projects. However, at times a custom software development company will have developers who are proficient with both sides, known as a full-stack developer. The best way to create the perfect front-end and back-end combination is to outline the specific project at hands requirements and assemble the stack that fits those.
