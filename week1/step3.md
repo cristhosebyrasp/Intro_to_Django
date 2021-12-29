@@ -17,6 +17,9 @@ Placeholder: TRUE
 
 <!-- END IMAGE -->
 
+A Django project is ...
+A Django app is a component of the overall Django project. 
+
 ## URLs
 
 While it is possible to process requests from every single URL via a single function, it is much more maintainable to write a separate view function to handle each resource. A URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data.
