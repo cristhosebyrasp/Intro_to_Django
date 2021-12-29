@@ -15,14 +15,15 @@ Placeholder: TRUE
 
 # Creating a new project
 
-```
-Creating the project
-```
+
 Open a command shell (or a terminal window), and make sure you are in your virtual environment.
-Navigate to where you want to store your Django apps (make it somewhere easy to find like inside your Documents folder), and create a folder for your new website (in this case: django_projects).Then change into your newly-created directory:
+Navigate to where you want to store your Django apps (make it somewhere easy to find like inside your Documents folder), and create a folder for your new website (in this case: django_projects).
 
 ```
 mkdir django_projects
+```
+Then change into your newly-created directory:
+```
 cd django_projects
 ```
 
