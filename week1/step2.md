@@ -22,7 +22,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/python-django.png)
+![IMAGE](/figures/python-django.png)
 
 <!-- END IMAGE -->
 

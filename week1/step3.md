@@ -13,7 +13,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/django_structure.png)
+![IMAGE](/figures/django_structure.png)
 
 <!-- END IMAGE -->
 

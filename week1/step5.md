@@ -9,7 +9,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/PyCharm1.png)
+![IMAGE](/figures/PyCharm1.png)
 
 <!-- END IMAGE -->
 
@@ -36,7 +36,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/PyCharm2.png)
+![IMAGE](/figures/PyCharm2.png)
 
 
 Create the new project using the django-admin startproject command as shown, and then change into the project folder:
@@ -60,7 +60,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/pythonversioncheck.png)
+![IMAGE](/figures/pythonversioncheck.png)
 
 # Installing Django
 
@@ -75,7 +75,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/InstallingDjango1.png)
+![IMAGE](/figures/InstallingDjango1.png)
 
 ## from git clone
 
@@ -88,7 +88,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/InstallingDjango2.png)
+![IMAGE](/figures/InstallingDjango2.png)
 
 
 
@@ -109,7 +109,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/firstproject.png)
+![IMAGE](/figures/firstproject.png)
 
 # cd to folder
 
@@ -123,7 +123,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/cdtofolder.png)
+![IMAGE](/figures/cdtofolder.png)
 
 # my first app
 
@@ -137,7 +137,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/myfirstapp.png)
+![IMAGE](/figures/myfirstapp.png)
 
 
 # migrate
@@ -155,7 +155,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/migrate.png)
+![IMAGE](/figures/migrate.png)
 
 
 # makemigration
@@ -173,7 +173,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/makemigrations.png)
+![IMAGE](/figures/makemigrations.png)
 
 # Starting the web application
 
@@ -190,7 +190,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/runserver.png)
+![IMAGE](/figures/runserver.png)
 
 # Your web app it alive
 
@@ -203,7 +203,7 @@ Attribution:
 Placeholder: TRUE  
 --> 
 
-![IMAGE](figures/screen1.png)
+![IMAGE](/figures/screen1.png)
 
 <!-- END IMAGE -->
 
