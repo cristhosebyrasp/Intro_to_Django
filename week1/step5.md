@@ -207,7 +207,7 @@ Placeholder: TRUE
 
 <!-- END IMAGE -->
 
-Now that your server is up and running, next lesson we will start to customise it. Keep in mind that every time your web app goes down, to put it up again you need to repeat the command beloww:
+Now that your server is up and running, next lesson we will start to customise it. Keep in mind that every time the server of your web app goes down, you will need to put it up again by repeating the command:
 
 ```
 python manage.py runserver
