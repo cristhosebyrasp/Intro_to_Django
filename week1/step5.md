@@ -12,43 +12,6 @@ Placeholder: TRUE
 ![IMAGE](/figures/PyCharm1.png)
 
 <!-- END IMAGE -->
-
-# Creating a new project
-
-
-Open a command shell (or a terminal window), and make sure you are in your virtual environment.
-Navigate to where you want to store your Django apps (make it somewhere easy to find like inside your Documents folder), and create a folder for your new website (in this case: django_projects).
-
-```
-mkdir django_projects
-```
-Then change into your newly-created directory:
-```
-cd django_projects
-```
-
-
-<!-- IMAGE
-Caption: PyCharm2
-ID: pycharm2
-Alt text: 
-Author: 
-Attribution: 
-Placeholder: TRUE  
---> 
-
-![IMAGE](/figures/PyCharm2.png)
-
-
-Create the new project using the django-admin startproject command as shown, and then change into the project folder:
-django-admin startproject locallibrary
-
-```
-cd locallibrary
-```
-
-
-
 # Checking Python version
 
 
@@ -91,6 +54,39 @@ Placeholder: TRUE
 
 ![IMAGE](/figures/InstallingDjango2.png)
 
+
+# Creating a new project
+
+
+Open a command shell (or a terminal window), and make sure you are in your virtual environment.
+Navigate to where you want to store your Django apps (make it somewhere easy to find like inside your Documents folder), and create a folder for your new website (in this example: **DjangoProject**).
+
+```
+mkdir DjangoProject
+```
+Then change into your newly-created directory using the command:
+```
+cd DjangoProject
+```
+
+<!-- IMAGE
+Caption: PyCharm2
+ID: pycharm2
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](/figures/PyCharm2.png)
+
+
+Create the new project using the django-admin startproject command as shown, and then change into the project folder:
+django-admin startproject myfirstapp
+
+```
+cd myfirstapp
+```
 
 
 # Creating your first Project
