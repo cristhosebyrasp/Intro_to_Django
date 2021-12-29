@@ -2,6 +2,19 @@
 
 Django framework has a ```Model View Template``` (or MVT) architecture. In a traditional data-driven website, a web application waits for HTTP requests from the web browser (or other client). When a request is received the application works out what is needed based on the URL and possibly information in **POST** data or **GET** data. Depending on what is required it may then read or write information from a database or perform other tasks required to satisfy the request. The application will then return a response to the web browser, often dynamically creating an HTML page for the browser to display by inserting the retrieved data into placeholders in an HTML template.
 
+<!-- IMAGE
+Caption: Django Architecture (MVT)
+ID: mvc
+Alt text: 
+Author: 
+Attribution: 
+Placeholder: TRUE  
+--> 
+
+![IMAGE](/figures/mvc.png)
+
+<!-- END IMAGE -->
+
 Django framework has a very specific files and folders structure. It has a group the code that handles each of these steps into separate files:
 
 <!-- IMAGE
@@ -20,7 +33,7 @@ Placeholder: TRUE
 A Django project is ...
 A Django app is a component of the overall Django project. Each app serve to a specific purpose. 
 
-## URLs
+## URLs patterns
 
 While it is possible to process requests from every single URL via a single function, it is much more maintainable to write a separate view function to handle each resource. A URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data.
 
