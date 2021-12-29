@@ -108,8 +108,10 @@ Placeholder: TRUE
 
 ![IMAGE](/figures/firstproject.png)
 
-# cd to folder
+# Moving into your app folder
 
+
+Knowlodge of terminal commands will come with time and practice. But during this course we will introduce you to some basic commands that will help you to put your app up and running. One inportant command is the cd, that permit you to move down into your project and app folders.
 
 <!-- IMAGE
 Caption: How to cd to folder
