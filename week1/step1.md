@@ -12,7 +12,7 @@ This course is designed for a beginner with basic programming background. We wil
 # Course objectives
 
 
-I will use PyCharm to create to build a complete Django website app from scratch, but feel free to use other IDEs, such Visual Studio Code, or online options, such as Replit. 
+To build a complete Django website app from scratch, which are updated through an administration panel.
 
 During this course we will be using:
 
