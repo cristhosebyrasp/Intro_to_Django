@@ -27,7 +27,8 @@ During this course we will be using:
 
 # Web development
 
-Before we dive in, I would like to show you the big picture when learn Django can take to. Let's introduce some terms that you may came across, if you inspire to become a web developer. The term ```front-end``` refers to the user interface, while ```back-end``` means the server, application and database that work behind the scenes to deliver information to the user. To becoming a ```full-stack``` developer can be challenging and requires constant learning. You will need to know a backend framework, such as Django and a front-end framework, such as HTML.
+Before we dive in, I would like to show you the big picture when learn Django can take to. Let's introduce some terms that you may came across, if you inspire to become a web developer. The term ```front-end``` refers to the user interface, while ```back-end``` means the server, application and database that work behind the scenes to deliver information to the user.  Front-end developers help to create an interactive interface that can be easily accessed by the users, whereas Back-end development deals with the main work that is done behind the screens. We can say that it helps to power the website by managing
+data transfer and other computational activities. To becoming a ```full-stack``` developer can be challenging and requires constant learning. You will need to know a backend framework, such as Django and a front-end framework, such as HTML. 
 
 # Front-end Development
 
